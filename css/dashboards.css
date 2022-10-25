@@ -1,0 +1,52 @@
+.container h1{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 50px;color: #21243D;
+    max-width: 506px;
+}
+.dashboard_card{
+    background: #FF7C7C;
+    border-radius: 16px;
+    padding: 0 18px;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    margin-right: 17px;
+}
+.dashboard__title{
+    font-weight: 400;
+    font-size: 20px;
+    color: #21243D;
+}
+.dashboard__text{
+    margin-bottom: 46px;  
+    max-width: 681px;  
+}
+.dashboard img{
+    margin-bottom: 54px;
+}
+.heading h1{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 60px;
+    color: #21243D;
+}
+.heading h2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 60px;
+    color: #21243D;
+}
+.heading p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.heading img{
+    margin-bottom: 27px;
+}

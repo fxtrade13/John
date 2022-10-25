@@ -1,0 +1,27 @@
+body{
+    font-family: 'Heebo';
+}
+.works__title{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+}
+@media (max-width: 375px) {
+    .works{
+        margin-left: 18px;
+        margin-bottom: 150px;
+    }
+    .works__work{
+        flex-wrap: wrap;
+    }
+    .works__work_img{
+        margin-right: 0;
+    }
+    .work__img{
+       width: 344px;
+    }
+    .none{
+        display: none;
+    }
+}
